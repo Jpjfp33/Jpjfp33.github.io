@@ -1,0 +1,16 @@
+.abc {
+    background-color: lightgray;
+
+}
+
+.def {
+    border: solid;
+    border-radius: 10px;
+
+}
+
+body {
+    border: solid;
+    border-radius: 10px;
+    
+}
